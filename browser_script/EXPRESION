@@ -1,0 +1,18 @@
+EXPRESION 
+* anything that reuturns a value.
+-get_user(id)
+key words: add, variables, this, get.
+
+
+STATEMENTS
+*anything that changes your program.
+
+variable? true:false; 
+var       if   else
+
+
+
+GIT
+hash tables objects
+user.name operator 
+user["name"]
